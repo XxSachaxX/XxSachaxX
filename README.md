@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sacha</h1>
 <h3 align="center">A motivated full(life)time learner!</h3>
 
-- 🔭 I’m currently a junior fullstack dev @Acasi
+- 🔭 I’m currently a fullstack dev @Code is Law
 - 💬 Ask me about **things I don't know so I can learn about it**
 
 - 📫 How to reach me **sgotainer@hotmail.com**
