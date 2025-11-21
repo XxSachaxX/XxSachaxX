@@ -4,7 +4,7 @@
 - 🔭 I’m currently a fullstack dev @Code is Law
 - 💬 Ask me about **things I don't know so I can learn about it**
 
-- 📫 How to reach me **sgotainer@hotmail.com**
+- 📫 How to reach me **sacha.gotainer@proton.me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
